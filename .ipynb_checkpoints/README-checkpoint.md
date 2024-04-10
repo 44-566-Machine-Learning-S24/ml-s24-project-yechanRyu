@@ -27,3 +27,4 @@ Repo for all project documents
 * mse_test_svm:255988430.89353034
 #### summary
 * Both Decision Tree and SVM models achieved perfect R-scores of 1.0 on both the training and test sets. However, when it comes to Mean Squared Error (MSE), the Decision Tree model had a much lower value on the test set (179,664,678.103), indicating better performance in terms of prediction accuracy compared to the SVM model (255,988,430.894). Despite the high R-scores indicating excellent explanatory power, the high MSE values suggest that the models may have significant errors when making predictions, particularly the SVM model.
+
