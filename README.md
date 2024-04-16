@@ -4,6 +4,12 @@ Repo for all project documents
 * Project Overview: The main objective of the project is to predict the price of Bitcoin by identifying the variables that best explain its price among various features and performing the prediction.
 * Dataset: BTC-USD.csv is a dataset that includes weekly data from January 15, 2015, to December 31, 2023. It contains features such as 'Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume', and 'fluctuation rate'. The dataset consists of 470 data points.
 ---------
+# The link to other main sctions listed for the submission.
+1. [RAW_DATA](RAW_DATA.md)
+1. [DATA](DATA.md)
+1. [ANALYSIS](ANALYSIS.md)
+1. [CONCLUSIONS](CONCLUSIONS.md)
+---------
 ## Result of Project Proposal 1
 * r2_test: 0.4999218786939512
 * r2_train: 0.5330701593853446
