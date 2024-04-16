@@ -10,6 +10,10 @@ Repo for all project documents
 1. [ANALYSIS](ANALYSIS.md)
 1. [CONCLUSIONS](CONCLUSIONS.md)
 ---------
+# Introduction
+* Initial goals: The initial goal of this project was to prove that Bitcoin's price can be predicted based on its trading volume using various algorithms.
+* Narrative conclusion: Through this project, we aimed to explain the predictive power of trading volume on price using various algorithms. However, we were unable to obtain significant r-squared values with algorithms such as linear regression, Decision Tree, and SVC. Nevertheless, the scatter plot from linear regression showed us that as trading volume increases, the price's lowest points tend to rise. Furthermore, our data ultimately produced results with the unsupervised learning algorithm, k-means. The scatter plot from k-means revealed a meaningful pattern: as trading volume increases, the price's fluctuation range becomes wider. Ultimately, I learned that as trading volume increases, so does volatility.
+----------
 ## Result of Project Proposal 1
 * r2_test: 0.4999218786939512
 * r2_train: 0.5330701593853446
