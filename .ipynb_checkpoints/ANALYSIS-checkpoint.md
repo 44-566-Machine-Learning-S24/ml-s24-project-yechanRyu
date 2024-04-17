@@ -15,7 +15,7 @@ Low                      -0.038023
 Close                    -0.002386  
 Adj Close                -0.002386  
 Volume                   -0.042953  
-fluctuation rate          1.000000
+fluctuation rate          1.000000<br>
 [link](initial_exploration.ipynb)
 
 ----------
@@ -25,7 +25,7 @@ fluctuation rate          1.000000
  - train: 0.5330701593853446,mse: 148072271.52454865
 * splite by 0.1
  - test: 0.6243973120733342,mse: 88247865.34693414
- - train:0.5194235460488409,mse: 147468964.15932348
+ - train:0.5194235460488409,mse: 147468964.15932348<br>
 [link](linear_regression.ipynb)
 
 --------
@@ -42,14 +42,14 @@ fluctuation rate          1.000000
 -------
 # Challenge
 * As indicated by the results, many metrics did not provide explanatory power regarding my hypothesis. However, through graphical analysis, I was able to identify specific patterns and draw a different conclusion. As seen below, while volume does not explain price, it has become possible to predict price volatility.
-* Additionally, my data was more suited to unsupervised algorithms, which made the initial clustering challenging. However, by applying the k-means algorithm, I was able to obtain the graph shown above.
- [**The linear regression results**](linear.png)
- [**This is result of supervised learning algorithm**](supervised.png)
+* Additionally, my data was more suited to unsupervised algorithms, which made the initial clustering challenging. However, by applying the k-means algorithm, I was able to obtain the graph shown above.<br>
+ [**The linear regression results**](linear.png)<br>
+ [**This is result of supervised learning algorithm**](supervised.png)<br>
  [**This is the result of kmean cluster**](kmean_clust.png)
  
  
  ------
- # limitations and improvements that could be made.
+# limitations and improvements that could be made.
 * Despite using various algorithms such as Tree Classifier and Support Vector Machine (SVC), it has not been conclusively proven that trading volume affects price volatility. To overcome this, we plan to collect more data to identify variables that influence price.
 
 * Our improvement strategies include:
