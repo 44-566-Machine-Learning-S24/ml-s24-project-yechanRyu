@@ -11,3 +11,4 @@
 # Narrative story
 
 My analysis was an attempt to grasp the relationship between trading volume and price volatility within the intricate realm of the stock market. My initial hypothesis posited that trading volume could act as a significant indicator for predicting price volatility. However, throughout my analysis, I came to realize that this relationship was more complex than initially anticipated. Notably, despite employing supervised learning algorithms such as linear regression, decision trees, and SVM, I found these models to be limited in their capacity to adequately explain or forecast price volatility. Conversely, when I applied the unsupervised learning algorithm, k-means clustering, I was able to identify specific patterns. This suggests that while trading volume may not directly predict price volatility, it could assist in forecasting the range of volatility.
+[Back to Readme](README.md)

@@ -8,7 +8,7 @@ Repo for all project documents
 1. [RAW_DATA](RAW_DATA.md)
 1. [DATA](DATA.md)
 1. [ANALYSIS](ANALYSIS.md)
-1. [CONCLUSIONS](CONCLUSIONS.md)
+1. [CONCLUSIONS](CONCLUSION.md)
 ---------
 # Introduction
 * **Initial goals**: The initial goal of this project was to prove that Bitcoin's price can be predicted based on its trading volume using various algorithms.
