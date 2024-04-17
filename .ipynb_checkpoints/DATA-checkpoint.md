@@ -9,3 +9,9 @@
 
 -----
 [**The linear regression results**](linear.png) That shows as the volume getting increased, the lowest price getting increased.
+
+-----
+[**This is result of supervised learning algorithm**](supervised.png) that is one of the supervised algorithm. No pattern.
+
+-----
+[**This is the result of kmean cluster**](kmean_clust.png) That shows the Fluctuation range is getting wider as the volume increase. 
