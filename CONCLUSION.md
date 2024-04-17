@@ -6,7 +6,7 @@
 * Decision Trees and SVM: Given the high MSE values and low R^2 values, both decision trees and SVM did not perform as expected in the test sets.
 
 * Graph Patterns: Although the numerical data did not provide satisfactory explanatory power, graph analysis revealed that trading volume significantly increases the range of variability.
-
+[**This is the result of kmean cluster**](kmean_clust.png)
 ------
 # Narrative story
 
