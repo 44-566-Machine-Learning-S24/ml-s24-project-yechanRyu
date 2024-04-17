@@ -8,4 +8,4 @@
 [**Clustering Part**](classification.ipynb)This content is about the process of creating a regression model to predict the highest price based on trading volume using Bitcoin price data. It explains that there are no missing values in the dataset, and all values are numeric except for 'Date'. The target variable (y) is chosen as 'High' (the highest price) to explain price increases, and the predictor variable (x) is 'Volume' (trading volume). Subsequently, analysis is conducted using Decision Tree and SVM (Support Vector Machine), and the results are evaluated to discuss the interpretative power and prediction accuracy of the regression model.
 
 -----
-![**The linear regression results**](linear.png) That shows as the volume getting increased, the lowest price getting increased.
+[**The linear regression results**](linear.png) That shows as the volume getting increased, the lowest price getting increased.
