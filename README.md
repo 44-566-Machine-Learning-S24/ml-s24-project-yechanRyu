@@ -1,8 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/7lKBcjfN)
 # 44-566 machine-learning project
 Repo for all project documents
-* Project Overview: The main objective of the project is to predict the price of Bitcoin by identifying the variables that best explain its price among various features and performing the prediction.
-* Dataset: BTC-USD.csv is a dataset that includes weekly data from January 15, 2015, to December 31, 2023. It contains features such as 'Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume', and 'fluctuation rate'. The dataset consists of 470 data points.
+* **Project Overview**: The main objective of the project is to predict the price of Bitcoin by identifying the variables that best explain its price among various features and performing the prediction.
+* **Dataset**: BTC-USD.csv is a dataset that includes weekly data from January 15, 2015, to December 31, 2023. It contains features such as 'Date', 'Open', 'High', 'Low', 'Close', 'Adj Close', 'Volume', and 'fluctuation rate'. The dataset consists of 470 data points.
 ---------
 # The link to other main sctions listed for the submission.
 1. [RAW_DATA](RAW_DATA.md)
@@ -11,8 +11,8 @@ Repo for all project documents
 1. [CONCLUSIONS](CONCLUSIONS.md)
 ---------
 # Introduction
-* Initial goals: The initial goal of this project was to prove that Bitcoin's price can be predicted based on its trading volume using various algorithms.
-* Narrative conclusion: Through this project, we aimed to explain the predictive power of trading volume on price using various algorithms. However, we were unable to obtain significant r-squared values with algorithms such as linear regression, Decision Tree, and SVC. Nevertheless, the scatter plot from linear regression showed us that as trading volume increases, the price's lowest points tend to rise. Furthermore, our data ultimately produced results with the unsupervised learning algorithm, k-means. The scatter plot from k-means revealed a meaningful pattern: as trading volume increases, the price's fluctuation range becomes wider. Ultimately, I learned that as trading volume increases, so does volatility.
+* **Initial goals**: The initial goal of this project was to prove that Bitcoin's price can be predicted based on its trading volume using various algorithms.
+* **Narrative conclusion**: Through this project, we aimed to explain the predictive power of trading volume on price using various algorithms. However, we were unable to obtain significant r-squared values with algorithms such as linear regression, Decision Tree, and SVC. Nevertheless, the scatter plot from linear regression showed us that as trading volume increases, the price's lowest points tend to rise. Furthermore, our data ultimately produced results with the unsupervised learning algorithm, k-means. The scatter plot from k-means revealed a meaningful pattern: as trading volume increases, the price's fluctuation range becomes wider. Ultimately, I learned that as trading volume increases, so does volatility.
 ----------
 ## Result of Project Proposal 1
 * r2_test: 0.4999218786939512
